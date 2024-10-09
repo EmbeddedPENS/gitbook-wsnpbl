@@ -1,22 +1,20 @@
 # Form Checklist Evaluasi Project PBL WSN-IoT
 
-## Informasi Project
+### Informasi Project
 
+* Tanggal : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 * Nama Tim: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-*   Anggota Tim:
+* Anggota Tim:
+  1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Project Leader)
+  2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  3. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  4. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  5. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  6. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-    1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Project Leader)
-    2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    3. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    4. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    5. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    6. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+### A. Dokumentasi Project (GitHub)
 
-
-
-## A. Dokumentasi Project (GitHub)
-
-### Repository Management
+#### Repository Management
 
 * [ ] Repository dibuat dan diorganisir dengan baik
 * [ ] README.md lengkap dan informatif
@@ -24,15 +22,11 @@
 * [ ] Commit message jelas dan deskriptif
 * [ ] Issues dan milestones digunakan dengan baik
 
-## Project Management
+### Project Management
 
 * [ ] Project management sudah diterapkan [cek link](https://youtu.be/BJu1Qcul7ig?feature=shared\&t=590)
 
-
-
-
-
-### Kelengkapan Dokumentasi
+#### Kelengkapan Dokumentasi
 
 * [ ] Dokumen skematik hardware
   * [ ] File
@@ -41,7 +35,7 @@
   * [ ] File
   * [ ] Readme dan link github
   * [ ] Foto PCB jadi dan meleatkkan di readme
-* [ ] Desain Sistem&#x20;
+* [ ] Desain Sistem
   * [ ] Blok diagram Penjelasan cara kerja alat
 * [ ] Source code ESP32
   * [ ] Link wokwi
@@ -52,24 +46,24 @@
   * [ ] FIle
   * [ ] readme dan link github
   * [ ] upload ke [`thingiverse`](https://www.thingiverse.com/)
-  * [ ] Foto reaal hasi cetak
+  * [ ] Foto real hasil cetak
 * [ ] Timeline implementasi project
 * [ ] Job description tiap anggota
-* [ ] Foto team&#x20;
+* [ ] Foto team
 * [ ] Flyer
   * [ ] Project PBL Jaringan sensor
   * [ ] Prodi ELektronika
   * [ ] PENS
 
-## B. Desain dan Perencanaan
+### B. Desain dan Perencanaan
 
-### Analisis dan Brainstorming
+#### Analysis dan Brainstorming
 
 * [ ] Mind map ide project
 * [ ] Analisis kebutuhan sistem
 * [ ] Justifikasi pemilihan teknologi
 
-### Diagram dan Arsitektur
+#### Diagram dan Arsitektur
 
 * [ ] Use case diagram
 * [ ] Class diagram
@@ -78,9 +72,9 @@
 * [ ] Topologi jaringan
 * [ ] Desain UI/UX (Figma)
 
-## C. Implementasi Hardware
+### C. Implementasi Hardware
 
-### Komponen dan Sensor
+#### Komponen dan Sensor
 
 * [ ] Pemilihan sensor sesuai kebutuhan
 * [ ] Dokumentasi kalibrasi sensor
@@ -88,7 +82,7 @@
 * [ ] Sistem monitoring baterai
 * [ ] Desain PCB (KiCad)
 
-### Power Management
+#### Power Management
 
 * [ ] Implementasi mode sleep
 * [ ] Optimasi konsumsi daya
@@ -97,9 +91,9 @@
 * [ ] Terdapat Sensor untuk Monitoring Kondisi Baterai
 * [ ] Terdapat Alert Bila Baterai lemat ke Dashboard
 
-## D. Implementasi Software
+### D. Implementasi Software
 
-### Firmware
+#### Firmware
 
 * [ ] Kode terstruktur dan terdokumentasi
 * [ ] Implementasi OTA
@@ -107,7 +101,7 @@
 * [ ] Handling sensor interrupts
 * [ ] Timer implementation
 
-### Komunikasi dan Data
+#### Komunikasi dan Data
 
 * [ ] Implementasi MQTT
 * [ ] Topik MQTT terstruktur (>100 node)
@@ -115,7 +109,7 @@
 * [ ] Error handling
 * [ ] Data encryption
 
-### Dashboard dan Monitoring
+#### Dashboard dan Monitoring
 
 * [ ] Real-time monitoring
 * [ ] Alert system
@@ -123,27 +117,16 @@
 * [ ] User interface responsif
 * [ ] Data visualization
 
-## E. Testing dan Validasi
+### E. Presentasi dan Demo
 
-### Quality Assurance
+* [ ] Slides presentasi
+* [ ] Demo sistem
+* [ ] Code walkthrough
+* [ ] Q\&A performance
 
-* [ ] Unit testing
-* [ ] Integration testing
-* [ ] Stress testing
-* [ ] Security testing
-* [ ] Performance testing
+### F. Skalabilitas dan Keamanan
 
-### Dokumentasi Testing
-
-* [ ] Test cases
-* [ ] Test results
-* [ ] Bug reports
-* [ ] Performance metrics
-* [ ] Security assessment
-
-## F. Skalabilitas dan Keamanan
-
-### Skalabilitas
+#### Skalabilitas
 
 * [ ] Arsitektur mendukung >100 node
 * [ ] Manajemen resource efisien
@@ -151,7 +134,7 @@
 * [ ] Data storage optimization
 * [ ] Adanya Setting Access point agar terhubung ke internet tanpa melakukan koding ulang
 
-### Keamanan
+#### Keamanan
 
 * [ ] Implementasi enkripsi
 * [ ] Autentikasi
@@ -159,18 +142,29 @@
 * [ ] Vulnerability assessment
 * [ ] Security best practices
 
-## G. Presentasi dan Demo
+### G. Testing dan Validasi
 
-* [ ] Slides presentasi
-* [ ] Demo sistem
-* [ ] Code walkthrough
-* [ ] Q\&A performance
+#### Quality Assurance
 
-## Penilaian Akhir
+* [ ] Unit testing
+* [ ] Integration testing
+* [ ] Stress testing
+* [ ] Security testing
+* [ ] Performance testing
+
+#### Dokumentasi Testing
+
+* [ ] Test cases
+* [ ] Test results
+* [ ] Bug reports
+* [ ] Performance metrics
+* [ ] Security assessment
+
+### Penilaian Akhir
 
 Skala: 1-5 (1=Buruk, 5=Sangat Baik)
 
-### Kategori Penilaian
+#### Kategori Penilaian
 
 1. Dokumentasi dan Manajemen Project: \_\_/5
 2. Desain dan Perencanaan: \_\_/5
@@ -182,7 +176,7 @@ Skala: 1-5 (1=Buruk, 5=Sangat Baik)
 
 Total Nilai: \_\_/35
 
-### Catatan Evaluator
+#### Catatan Evaluator
 
 ```
 Kekuatan Project:
